@@ -1,7 +1,7 @@
 [
   {
     "root": "humanus",
-    "definition": "Human being",
+    "definition": "Human",
     "is_latin": true,
     "examples": [
       {
@@ -16,7 +16,7 @@
   },
   {
     "root": "anthropos",
-    "definition": "Human being, man",
+    "definition": "Human",
     "is_latin": false,
     "examples": [
       {
@@ -42,7 +42,7 @@
   },
   {
     "root": "vir",
-    "definition": "Man (Masculine)",
+    "definition": "Masculine",
     "is_latin": true,
     "examples": [
       {

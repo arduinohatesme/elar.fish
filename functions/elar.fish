@@ -32,7 +32,7 @@ function elar --description "ELAR Study Tools"
             set -l root_color_code
             set -l latin_or_greek_letter
 
-            if test $is_latin = true
+            if test (string trim -- $is_latin) = true
                 set root_color_code "#ff9977"
                 set latin_or_greek_letter L
             else
