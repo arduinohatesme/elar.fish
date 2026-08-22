@@ -1,0 +1,110 @@
+[
+  {
+    "root": "humanus",
+    "definition": "Human being",
+    "is_latin": true,
+    "examples": [
+      {
+        "word": "humane",
+        "definition": "To be kind or compassionate, NOT to be human."
+      },
+      {
+        "word": "humanist",
+        "definition": "A philosophy where humans are at the center."
+      }
+    ]
+  },
+  {
+    "root": "anthropos",
+    "definition": "Human being, man",
+    "is_latin": false,
+    "examples": [
+      {
+        "word": "anthropology",
+        "definition": "The study of the origins, culture, and customs of humans."
+      },
+      {
+        "word": "misanthrope",
+        "definition": "A person who hates all people, e.g. Scrooge."
+      }
+    ]
+  },
+  {
+    "root": "hominis",
+    "definition": "Man",
+    "is_latin": true,
+    "examples": [
+      {
+        "word": "homicide",
+        "definition": "To kill another person; the killing of another person."
+      }
+    ]
+  },
+  {
+    "root": "vir",
+    "definition": "Man (Masculine)",
+    "is_latin": true,
+    "examples": [
+      {
+        "word": "virile",
+        "definition": "Having masculine characteristics like strength, power, and assertive-ness."
+      }
+    ]
+  },
+  {
+    "root": "gyne",
+    "definition": "Woman",
+    "is_latin": false,
+    "examples": [
+      {
+        "word": "gynecology",
+        "definition": "The branch of medicine focused on female reproduction."
+      }
+    ]
+  },
+  {
+    "root": "femina",
+    "definition": "Woman",
+    "is_latin": true,
+    "examples": [
+      {
+        "word": "feminism",
+        "definition": "The belief that men and women should have equal rights."
+      },
+      {
+        "word": "feminist",
+        "definition": "A supporter of the belief that men and women should have equal rights."
+      }
+    ]
+  },
+  {
+    "root": "autos",
+    "definition": "Self",
+    "is_latin": false,
+    "examples": [
+      {
+        "word": "autocrat",
+        "definition": "A ruler with absolute or unlimited power."
+      },
+      {
+        "word": "automation",
+        "definition": "A person who behaves mechanically or routinely."
+      },
+      {
+        "word": "autonomy",
+        "definition": "The condition of being self-governing and independent"
+      }
+    ]
+  },
+  {
+    "root": "ego",
+    "definition": "Self",
+    "is_latin": true,
+    "examples": [
+      {
+        "word": "egoism",
+        "definition": "Valuing everything according to oneself; selfishness"
+      }
+    ]
+  }
+]
